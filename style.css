@@ -70,23 +70,6 @@ body{
 		justify-content: space-evenly;
 		height: 100%;
 	}
-
-	.symbol {
-		margin-bottom: 0;
-	}
-
-	.symbol svg {
-		height: 120px;
-	}
-
-	.symbol .title {
-		font-size: x-large;
-	}
-
-	.symbol:hover {
-		transform: scale(1.06);
-	}
-
 	
 }
 
@@ -95,7 +78,7 @@ body{
 		right:40%;
 	}
 	.modulo {
-		padding:20px;
+		width: 300px !Important;
 		
 	}
 }
