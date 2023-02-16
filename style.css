@@ -7,11 +7,8 @@ body{
 	background-color: rgba(31,112,103,255);
 	margin: 0;
 	padding: 0;
-	
 	font-family: 'Permanent Marker', cursive;
 }
-
-
 
 .container {
 	justify-content: space-evenly;
@@ -52,7 +49,7 @@ body{
 
 .modulo{
 	align-items: center;
-	margin-left: 30% !important;
+	margin-left: 30% ;
 }
 
 
@@ -78,11 +75,15 @@ body{
 }
 
 @media screen and (max-width: 550px) {
-	.downBtn {
-		right:40%;
+	.lettere {
+		margin-top: 50% !important;
 	}
 	.modulo {
-		width: 300px ;
-		
+		margin-left: 0 !important;
+		margin-right: 20%;
+	}
+
+	.modulo iframe {
+		width: 400px !important;
 	}
 }
