@@ -3,10 +3,12 @@
 
 html, body, .container { height: 100%; }
 
-
-body {
-  background-image: url('background.jpg');
+body{
+	background-color: rgba(31,112,103,255);
+	margin: 0;
+	padding: 0;
 }
+
 
 .container {
 	justify-content: space-evenly;
