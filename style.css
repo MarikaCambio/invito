@@ -26,6 +26,7 @@ body{
 	text-align: center;
 	padding-top: 25%;
 	height: 50%;
+	margin-bottom: 50px;
 	/*border: 1px solid red;*/
 }
 
@@ -78,7 +79,6 @@ body{
 	.lettere {
 		height: 25% !important;
 		margin-top: 50% !important;
-		margin-bottom: 50px !important;
 	}
 	.modulo {
 		margin-left: 0px !important;
