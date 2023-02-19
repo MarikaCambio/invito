@@ -53,7 +53,7 @@ body{
 }
 
 
-.downBtn{
+/*.downBtn{
 	position: absolute;
 	bottom: 40px;
 	right: 48%;
@@ -72,10 +72,11 @@ body{
 		height: 100%;
 	}
 	
-}
+}*/
 
 @media screen and (max-width: 550px) {
 	.lettere {
+		height: 25% !important;
 		margin-top: 50% !important;
 	}
 	.modulo {
